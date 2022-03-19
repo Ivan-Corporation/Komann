@@ -1,1 +1,1 @@
-# Демо проект для курса по NestJS
+# Komanest test
