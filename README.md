@@ -7,5 +7,5 @@
 <li>Unit && Jest tests </li>
 
 
-docker-compose up -d
+docker-compose up -detach or -d
 docker start mongo
