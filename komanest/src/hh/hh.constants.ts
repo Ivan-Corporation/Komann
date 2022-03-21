@@ -6,4 +6,4 @@ export const API_URL = {
 
 export const SALARY_CLUSTER_ID = 'salary';
 
-export const CLUSTER_FIND_ERROR = 'Не найден кластер Salary';
+export const CLUSTER_FIND_ERROR = 'Not found Salary cluster';
